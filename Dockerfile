@@ -1,0 +1,1 @@
+FROM transceptortechnology/ossmtpprobe:latest
